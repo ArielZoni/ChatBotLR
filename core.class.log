@@ -1,0 +1,1292 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777232180@s.whatsapp.net',
+    fromMe: false,
+    id: '16FAA6D415DC3535AA32A1A5F75D3822',
+    participant: undefined
+  },
+  messageTimestamp: 1690415858,
+  pushName: 'Dios Es Mi Protector❣️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493777232180'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777232180@s.whatsapp.net',
+    fromMe: false,
+    id: '0EF06A70D263B60C55FD8B86390FA489',
+    participant: undefined
+  },
+  messageTimestamp: 1690415879,
+  pushName: 'Dios Es Mi Protector❣️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nuestro broker',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nuestro broker',
+  from: '5493777232180'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'CF2707A4224C96E3FEEA89FA98F50672',
+    participant: undefined
+  },
+  messageTimestamp: 1690416353,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '4B923406DDC26FB0D8D111E560649512',
+    participant: undefined
+  },
+  messageTimestamp: 1690416361,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaja',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'F59590CC58F6AAF63D7C05516023E041',
+    participant: undefined
+  },
+  messageTimestamp: 1690416366,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chau',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Chau',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0AB8D88725E28F5C0589FA7479451D0',
+    participant: undefined
+  },
+  messageTimestamp: 1690416381,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Revolution',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Revolution',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491153464362@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEAC53EDE220D2BE94C',
+    participant: undefined
+  },
+  messageTimestamp: 1690416434,
+  pushName: 'Lautaro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bro estaba manejando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Lautaro',
+  body: 'Bro estaba manejando',
+  from: '5491153464362'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491153464362@s.whatsapp.net',
+    fromMe: false,
+    id: '3A16697B150E74EBF0C9',
+    participant: undefined
+  },
+  messageTimestamp: 1690416445,
+  pushName: 'Lautaro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Recién llegue',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Lautaro',
+  body: 'Recién llegue',
+  from: '5491153464362'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '1E1D02CF9060D5414A79BA8878C3C983',
+    participant: undefined
+  },
+  messageTimestamp: 1690416448,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Discord',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '962A1408748F09728EF3029AC5F8951E',
+    participant: undefined
+  },
+  messageTimestamp: 1690416452,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'discord',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '4C912C953D3E68F973ADB6000F7B0774',
+    participant: undefined
+  },
+  messageTimestamp: 1690416458,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '00FF0B98DDDD9B65525133E79A14FB61',
+    participant: undefined
+  },
+  messageTimestamp: 1690416463,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'discord',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'C30BD7C736EE5EE01448160F2FA814AC',
+    participant: undefined
+  },
+  messageTimestamp: 1690416470,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '956F3DEF3DA5D5292901C97128F90B7B',
+    participant: undefined
+  },
+  messageTimestamp: 1690416478,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gracias',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '216877A9E035B0F4FD4FABEDB31E3058',
+    participant: undefined
+  },
+  messageTimestamp: 1690416482,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'E96359DC001D4E4843D3FDC39E9D06EE',
+    participant: undefined
+  },
+  messageTimestamp: 1690416486,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gracias',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'B37C7EEA92F90784B34D3B376C892C14',
+    participant: undefined
+  },
+  messageTimestamp: 1690416490,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'A862E8E3CD272B3C32BE9DAED5FAD781',
+    participant: undefined
+  },
+  messageTimestamp: 1690416494,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '68C38EDCE062F6EB807844B1350C91D2',
+    participant: undefined
+  },
+  messageTimestamp: 1690416506,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nuestro Broker',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nuestro Broker',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '8A625DBB948CE312DFFB59C51130A15D',
+    participant: undefined
+  },
+  messageTimestamp: 1690416540,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '1BDD9A8F54CB69E599AB6B1E132E02C2',
+    participant: undefined
+  },
+  messageTimestamp: 1690416553,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'De 10',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'De 10',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: 'D0125812CC03687B7692C665615D7906',
+    participant: undefined
+  },
+  messageTimestamp: 1690416600,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'El tendría que tener un chip para ese chat',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El tendría que tener un chip para ese chat',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '92FC538B6DD6F6AEE9164A433E8E2C83',
+    participant: undefined
+  },
+  messageTimestamp: 1690416617,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'O sino siempre que le pongan hola le va a spamear haja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O sino siempre que le pongan hola le va a spamear haja',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777230026@s.whatsapp.net',
+    fromMe: false,
+    id: '68AE06D35D1A4CAC50C313456A3AB466',
+    participant: undefined
+  },
+  messageTimestamp: 1690416627,
+  pushName: 'C-∈M∋ ♕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Viste jaj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Viste jaj',
+  from: '5493777230026'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491153464362@s.whatsapp.net',
+    fromMe: false,
+    id: '3AECD2ACAAACE1E89B4B',
+    participant: undefined
+  },
+  messageTimestamp: 1690416709,
+  pushName: 'Lautaro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Lautaro',
+  body: 'Hola',
+  from: '5491153464362'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491153464362@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4A75E858A1FAE29A40',
+    participant: undefined
+  },
+  messageTimestamp: 1690416722,
+  pushName: 'Lautaro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya estoy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya estoy',
+  from: '5491153464362'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD12C043BA406F5ABA',
+    participant: undefined
+  },
+  messageTimestamp: 1690419595,
+  pushName: '.',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5491161352640'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD12C043BA406F5ABA',
+    participant: undefined
+  },
+  messageTimestamp: 1690419595,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 739,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 6919,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__0ba83d79-1f87-406a-965a-237328261024',
+  from: '5491161352640'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3A044467CDAB11C3D6D4',
+    participant: undefined
+  },
+  messageTimestamp: 1690419598,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'acá cuál sería?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'acá cuál sería?',
+  from: '5491161352640'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB43B4554947C701DEE',
+    participant: undefined
+  },
+  messageTimestamp: 1690419642,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Cristian Castellon',
+  body: 'Hola',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFDC0448398795FE499',
+    participant: undefined
+  },
+  messageTimestamp: 1690419644,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Cristian Castellon',
+  body: 'Buenas',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A022A6B27F96C83484A',
+    participant: undefined
+  },
+  messageTimestamp: 1690419701,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nuestro Broker',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nuestro Broker',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A01152F3258617D5536',
+    participant: undefined
+  },
+  messageTimestamp: 1690419730,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9AEE4294A8DCCBBA58',
+    participant: undefined
+  },
+  messageTimestamp: 1690419739,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Grupo de Whatsapp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Grupo de Whatsapp',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5DEDA8C7FA3A02C9DD',
+    participant: undefined
+  },
+  messageTimestamp: 1690419750,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A06D775C7767434B969',
+    participant: undefined
+  },
+  messageTimestamp: 1690419772,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8903374AA478F12D5B',
+    participant: undefined
+  },
+  messageTimestamp: 1690419777,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chau',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Chau',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A16CDA6813EC39086CF',
+    participant: undefined
+  },
+  messageTimestamp: 1690419782,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Link',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Link',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0685D36C3EFEE8C962',
+    participant: undefined
+  },
+  messageTimestamp: 1690419790,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Documento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Documento',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFCCF0B11F5138CD27E',
+    participant: undefined
+  },
+  messageTimestamp: 1690419818,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3342B9363855465F77',
+    participant: undefined
+  },
+  messageTimestamp: 1690419823,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A624CE50C8E3449C5D7',
+    participant: undefined
+  },
+  messageTimestamp: 1690419839,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Discord',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A57D798D438CD0E5CF6',
+    participant: undefined
+  },
+  messageTimestamp: 1690419845,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777674348@s.whatsapp.net',
+    fromMe: false,
+    id: '66A4C919927E5BC354CD8801BCDB7857',
+    participant: undefined
+  },
+  messageTimestamp: 1690419846,
+  pushName: 'Arieel🙃',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes',
+  from: '5493777674348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491133245695@s.whatsapp.net',
+    fromMe: false,
+    id: '3A624B5FAFD72B64C4B5',
+    participant: undefined
+  },
+  messageTimestamp: 1690419846,
+  pushName: 'Pablo Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Pablo Castellon',
+  body: 'Hola',
+  from: '5491133245695'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5865A933581E0198EC',
+    participant: undefined
+  },
+  messageTimestamp: 1690419855,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Discord',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777674348@s.whatsapp.net',
+    fromMe: false,
+    id: '70C0E4B8D9E2EA751BE5300E14E08913',
+    participant: undefined
+  },
+  messageTimestamp: 1690419860,
+  pushName: 'Arieel🙃',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5493777674348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491132407426@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACA669D1E749EBCE23D',
+    participant: undefined
+  },
+  messageTimestamp: 1690419869,
+  pushName: 'Cristian Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5491132407426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777674348@s.whatsapp.net',
+    fromMe: false,
+    id: 'CDD4F206F974550853602CA86E8AFCE9',
+    participant: undefined
+  },
+  messageTimestamp: 1690419869,
+  pushName: 'Arieel🙃',
+  broadcast: false,
+  message: Message {
+    conversation: 'Discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Discord',
+  from: '5493777674348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777674348@s.whatsapp.net',
+    fromMe: false,
+    id: '1B64577714A377CE9D54EAB7CAF5437D',
+    participant: undefined
+  },
+  messageTimestamp: 1690419884,
+  pushName: 'Arieel🙃',
+  broadcast: false,
+  message: Message {
+    conversation: 'discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'discord',
+  from: '5493777674348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491133245695@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7BA8427406010EE583',
+    participant: undefined
+  },
+  messageTimestamp: 1690419895,
+  pushName: 'Pablo Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nuestro broker',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nuestro broker',
+  from: '5491133245695'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491133245695@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD5F596F973BBC9EAA',
+    participant: undefined
+  },
+  messageTimestamp: 1690419911,
+  pushName: 'Pablo Castellon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nuestra app',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nuestra app',
+  from: '5491133245695'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493777674348@s.whatsapp.net',
+    fromMe: false,
+    id: '55EE32255D2F653B9E8299A01BE66D62',
+    participant: undefined
+  },
+  messageTimestamp: 1690419920,
+  pushName: 'Arieel🙃',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nuestra app',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nuestra app',
+  from: '5493777674348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD12C043BA406F5ABA',
+    participant: undefined
+  },
+  messageTimestamp: 1690420237,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 739,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 6919,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__8f5dc8c0-1abd-44a7-9c92-c8e846ad2bf0',
+  from: '5491161352640'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD12C043BA406F5ABA',
+    participant: undefined
+  },
+  messageTimestamp: 1690420268,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 739,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 6919,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__f307c599-13fd-4366-b051-fb0680cc4f5e',
+  from: '5491161352640'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD12C043BA406F5ABA',
+    participant: undefined
+  },
+  messageTimestamp: 1690420563,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 739,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 6919,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__2ddcb68b-576d-4b56-93f5-c9a8fcf0e85a',
+  from: '5491161352640'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491173695018@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7BD4C244A1D09CEF60',
+    participant: undefined
+  },
+  messageTimestamp: 1690420655,
+  pushName: 'Lucas Argul.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Excelente dalee',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Excelente dalee',
+  from: '5491173695018'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491173695018@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF5FF6235E1DA4122CE',
+    participant: undefined
+  },
+  messageTimestamp: 1690420656,
+  pushName: 'Lucas Argul.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya mando!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya mando!',
+  from: '5491173695018'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493751582891@s.whatsapp.net',
+    fromMe: false,
+    id: '7D7BD4C2C55C022503B8823555EEE8DA',
+    participant: undefined
+  },
+  messageTimestamp: 1690420704,
+  pushName: 'Naza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Listo bro',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Naza',
+  body: 'Listo bro',
+  from: '5493751582891'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161352640@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD12C043BA406F5ABA',
+    participant: undefined
+  },
+  messageTimestamp: 1690420730,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 739,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-babcb6fd-5ee9-4931-8062-4e3c4f597c9d?ccb=9-4&oh=01_AdTDBl06bHk4MEDv-8mR2Feyg7wXlmIz99lXTS4nq-onWw&oe=64E91B04',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 6919,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__19873a5c-ade9-4635-8423-cc6e2fe76474',
+  from: '5491161352640'
+}
